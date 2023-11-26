@@ -1,0 +1,6 @@
+Name       = Day Care Overworld
+Version    = 1.0.0
+Essentials = 21.1
+Optional   = Pokemon Color Variants
+Website    = github.com/MickTK/PE-Day-Care-Overworld
+Credits    = MickTK
