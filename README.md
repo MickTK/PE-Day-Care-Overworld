@@ -1,5 +1,5 @@
 ![Essentials](https://badgen.net/badge/Essentials/21.1/orange)
-![Version](https://badgen.net/badge/Version/1.0.0/cyan)
+![Version](https://badgen.net/badge/Version/1.0.1/cyan)
 
 
 <h1 align="center">Day Care Overworld</h1>
@@ -14,6 +14,11 @@
 ### Creating the events
 1. Create two new events and name them `poke1` and `poke2` (name conventions can be changed from the configuration file);
 2. Set an `Autonomous Movement` option.
+
+<br>
+
+> [!NOTE]  
+> Overworld sprites are not included in the plugin.
 
 <br>
 
